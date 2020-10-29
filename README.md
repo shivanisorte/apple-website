@@ -1,2 +1,2 @@
 # apple-website
-[![SC2 Video](med/desk.gif)]
+![SC2 Video](med/desk.gif)
